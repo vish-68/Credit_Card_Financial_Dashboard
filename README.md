@@ -1,2 +1,2 @@
 # Credit_Card_Financial_Dashboard
-Used Power BI for creating Dashboard
+We have 2 csv file as a data one contains information regarding credit card and another contains infor regarding the credit card holders. We have loaded the data in the **PostgreSQL Database**. We have used **Power BI** for creating the dashboard. After importing the data we have also used DAX function for calculations. We have created 2 dashboards **Credit Card Customer Report** and **Credit Card Transaction Report**. 
